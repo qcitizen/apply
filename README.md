@@ -4,8 +4,8 @@ A function that compresses an alphanumeric string by collapsing consecutive valu
 
 ## Tests
 
-Can run the unittests with the following command
+Can run the unit tests with the following command
 ```
-python -m unittest compress_test.py
+python -m unittest test_compress.py
 ```
 
